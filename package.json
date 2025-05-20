@@ -1,6 +1,6 @@
 {
   "name": "create-rubric-app",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CLI tool to get started with a full-stack AI project.",
   "main": "src/index.ts",
   "scripts": {
