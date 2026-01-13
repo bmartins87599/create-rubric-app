@@ -8,3 +8,4 @@ Notes and usage details for create-rubric-app.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
